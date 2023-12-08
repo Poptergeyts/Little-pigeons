@@ -1,0 +1,75 @@
+﻿  main.cpp
+C:\Users\yivay\source\repos\Save Our Souls\Shell.h(33,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\Shell.h(39,100): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\Shell.h(39,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\Shell.h(39,190): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\Shell.h(39,153): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\Shell.h(39,128): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\Shell.h(39,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(38,1): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(37,113): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(43,101): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(45,111): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(45,58): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(45,195): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(45,158): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(45,133): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(45,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(46,105): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(46,62): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(46,195): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(46,158): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(46,133): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(46,48): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\SwipeShell.h(53,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(58,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(58,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(71,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(71,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(81,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(81,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(86,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(86,23): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(215,42): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(983,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(983,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1068,48): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1072,58): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1202,35): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1231,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1231,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1330,47): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1334,57): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1401,85): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1401,55): warning C4244: аргумент: преобразование "T" в "float", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\yivay\source\repos\Save Our Souls\main.cpp(1504,58): warning C4305: аргумент: усечение из "double" в "float"
+  Создание кода
+  1 of 271 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  Save Our Souls.vcxproj -> C:\Users\yivay\source\repos\Save Our Souls\x64\Release\Save Our Souls.exe
